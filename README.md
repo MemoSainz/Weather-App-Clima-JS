@@ -1,6 +1,7 @@
 <div align="center">
 
 Files in Spanish the folder, if you wanna test the app in this language.
+<br/>
 Archivos en español en la carpeta, si necesitas probar la aplicación en este idioma.
 
 <br/><br/><br/>
